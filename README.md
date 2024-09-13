@@ -1,20 +1,54 @@
-<<<<<<< HEAD
-# FOSS-TASKS :
-=======
-# FOSS-TASKS
+# FOSS TASKS:
+## ABOUT ME:
+HI, I AM K. JAGADEESHWAR REDDY FROM ANDHRA PRADESH. MY MOTHER TONGUE IS TELUGU. I AM A MPC STUDENT IN INTERMEDIATE. MY HOBBIES INCLUDE PLAYING BADMINTON, WHICH I LOVE, AND I AM A MUSIC LOVER. I ENJOY WATCHING MOVIES IN MY LEISURE TIME. I HAVE A STRONG INTEREST IN CODING AND ENJOY WORKING ON COMPUTERS FOR EXTENDED PERIODS.
 
-## ABOUT ME :
-HI , I am K.JAGADEESHWAR REDDY , I am from ANDRA PRADESH , My mother tongue is TELUGU . In intermediate i am a MPC student .
-While comming to my hobies , In sports i am a badminton player ,i love playing it . I am a music lover , i watch movies in my leasure time .
-I am intrested in coding and i just love working with computer for a long time .
+# WHY SHOULD WE CHOOSE YOU?
+**YOU SHOULD CHOOSE ME BECAUSE I AM PASSIONATE ABOUT CODING AND EAGER TO DEVELOP MY SKILLS. I AM COMMITTED TO DEDICATING TIME TO IMPROVE MY ABILITIES AND LEARN NEW THINGS EVERY DAY. I AM NOT A NEGLIGIBLE PERSON; I WILL GIVE MY 100% AND STRIVE TO COMPLETE MY WORK WITHIN THE GIVEN TIME. I BELIEVE I WOULD BE A STRONG CANDIDATE FOR THE FOSS CLUB AND BRING PASSION AND DEDICATION TO THE ROLE.**
 
-## Why should we choose you?
-You can choose me because i am an intrested person towards coding . I want to devolp my skills more and more from now onwards , i will dedicate more time towards devoloping my skills and i am passionate about learning new things everyday , also i am not a negligable person i will give my 100% and  i'll always try complete my work in given time . So , I think you can select me and think i will be one of the right persons in which you are selecting from our mates for the FOSS CLUB and i am really very passionate and intrested about it .
+# HOW DO YOU INTEND TO CONTRIBUTE BACK TO THE CLUB?
+I WILL CONTRIBUTE TO THE CLUB IN THE FOLLOWING WAYS:
 
-## How do you intend to contribute back to the club?
-I will contribute to the club in the following ways . **I'll be disicplined and focused in the FOSS club not causing any unwanted time waste disturbances to others as well as i'll not be diverted i use my time full fledged and i will dedicate my time on focusing my goals which i feel is very important for me**  I will devolop my skills and complete the given work in time no doubt in that , I will not only work when there are working hours like particular time i'll try to extend my working time and devolp my skills . I'll be friendly and jovial with each and eveyone . I will always be ready to share my ideas and thoughts with my co-friends which is very useful to me for learning and knowing new things and keep myself updated . I will also be sincere in my work and actively participate and engage with the club members . ***So , i feel these are  the reasons that are necessary for selecting me***
+*I WILL BE DISCIPLINED AND FOCUSED, MINIMIZING DISTRACTIONS AND TIME WASTAGE.*
+*I WILL USE MY TIME EFFECTIVELY TO REACH MY GOALS AND COMPLETE ASSIGNED TASKS PROMPTLY.*
+*I WILL EXTEND MY WORKING HOURS BEYOND DESIGNATED TIMES TO DEVELOP MY SKILLS.*
+*I WILL MAINTAIN A FRIENDLY AND JOVIAL ATTITUDE, SHARING IDEAS AND THOUGHTS WITH MY PEERS.*
+*I WILL BE SINCERE IN MY WORK AND ACTIVELY ENGAGE WITH CLUB MEMBERS.*
+*I BELIEVE THESE ATTRIBUTES MAKE ME A STRONG CANDIDATE FOR THE FOSS CLUB.*
 
-## What are your fields of interest, and how do you plan on working on them?
-My fields of intrestes are devoloping my skills , coding , learning new things everyday , exploring unknown things , other than technical ones , I am intrested in playing sports like badminton and cricket ,listening to music , watching movies .
-once after joining the club i'll keep all my distractions away like movies , sports etc.. what all the other distractions i have and i'll dedicate my time fully to the club and improve the knowledge which will help in future and may also help the club 
->>>>>>> origin/main
+## WHAT ARE YOUR FIELDS OF INTEREST, AND HOW DO YOU PLAN ON WORKING ON THEM?
+*MY FIELDS OF INTEREST INCLUDE SKILL DEVELOPMENT, CODING, LEARNING NEW THINGS EVERY DAY, AND EXPLORING UNKNOWN TERRITORIES. OUTSIDE OF TECHNICAL INTERESTS, I ENJOY PLAYING BADMINTON AND CRICKET, LISTENING TO MUSIC, AND WATCHING MOVIES. ONCE I JOIN THE CLUB, I WILL MINIMIZE DISTRACTIONS AND FULLY DEDICATE MYSELF TO THE CLUB, FOCUSING ON IMPROVING MY KNOWLEDGE AND CONTRIBUTING TO THE CLUB'S SUCCESS.*
+
+
+# Project Task Status
+
+This document outlines the status of various tasks for the project.
+
+## Task Status
+
+| TASK NO | ABOUT                           | STATUS      |
+| ------- | -------------------------------- | ----------- |
+| [TASK-00](https://github.com/Jagadeesh-18-bot/amfoss-tasks/tree/main/TASK-00) | INSTALLING LINUX                 | COMPLETED |
+| [TASK-01](https://github.com/Jagadeesh-18-bot/amfoss-tasks/tree/main/TASK-01) | TYPE MAESTRO                     | COMPLETED |
+| [TASK-02](https://github.com/Jagadeesh-18-bot/amfoss-tasks/tree/main/TASK-02) | TERMINAL CHAOS                   | COMPLETED |
+| [TASK-03]( | HELLO, WORLD!                    | PARTIALLY COMPLETED  |
+| TASK-04 | GOPAL AND HIS PAGEPAL            | PARTIALLY COMPLETED  |
+| TASK-05 | TERMINAL TROLLY                  | NOT COMPLETED |
+| TASK-06 | OPEN DOCS                        | COMPLETED |
+| TASK-07 | PIRATE'S DILEMMA                 | NOT COMPLETED |
+| TASK-08 | BLOG BURST                       | COMPLETED |
+| TASK-09 | HERO-DEX!                        | NOT COMPLETED |
+| TASK-10 | OPERATION PIXEL MERGE            | NOT COMPLETED |
+
+## Notes
+
+- **COMPLETED**: Task has been completed successfully.
+- **PARTIALLY COMPLETED**: Task is in progress or partially completed.
+- **NOT COMPLETED**: Task has not been started or completed yet.
+
+---
+
+:rocket: **Happy Coding!**
+
+
+
+
