@@ -1,3 +1,4 @@
-# INSTALL LINUX 
-Mine laptop is windows , so i successfully installed **LINUX** . 
-Now I'll start doing the *AMFOSS* tasks. 
+# Installing Linux
+
+**I successfully installed Linux on my Windows laptop. Now, I'm ready to begin working on the AMFOSS tasks.**
+
