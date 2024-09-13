@@ -1,26 +1,25 @@
 # FOSS TASKS:
-## ABOUT ME:
-HI, I AM K. JAGADEESHWAR REDDY FROM ANDHRA PRADESH. MY MOTHER TONGUE IS TELUGU. I AM A MPC STUDENT IN INTERMEDIATE. MY HOBBIES INCLUDE PLAYING BADMINTON, WHICH I LOVE, AND I AM A MUSIC LOVER. I ENJOY WATCHING MOVIES IN MY LEISURE TIME. I HAVE A STRONG INTEREST IN CODING AND ENJOY WORKING ON COMPUTERS FOR EXTENDED PERIODS.
 
-# WHY SHOULD WE CHOOSE YOU?
-**YOU SHOULD CHOOSE ME BECAUSE I AM PASSIONATE ABOUT CODING AND EAGER TO DEVELOP MY SKILLS. I AM COMMITTED TO DEDICATING TIME TO IMPROVE MY ABILITIES AND LEARN NEW THINGS EVERY DAY. I AM NOT A NEGLIGIBLE PERSON; I WILL GIVE MY 100% AND STRIVE TO COMPLETE MY WORK WITHIN THE GIVEN TIME. I BELIEVE I WOULD BE A STRONG CANDIDATE FOR THE FOSS CLUB AND BRING PASSION AND DEDICATION TO THE ROLE.**
+## About Me:
+Hi, I am K. Jagadeeshwar Reddy from Andhra Pradesh. My mother tongue is Telugu. I am an MPC student in Intermediate. My hobbies include playing badminton, which I love, and I am a music lover. I enjoy watching movies in my leisure time. I have a strong interest in coding and enjoy working on computers for extended periods.
 
-# HOW DO YOU INTEND TO CONTRIBUTE BACK TO THE CLUB?
-I WILL CONTRIBUTE TO THE CLUB IN THE FOLLOWING WAYS:
+## Why Should We Choose You?
+You should choose me because I am passionate about coding and eager to develop my skills. I am committed to dedicating time to improve my abilities and learn new things every day. I am not someone who neglects tasks; I will give my 100% and strive to complete my work within the given time. I believe I would be a strong candidate for the FOSS Club and bring passion and dedication to the role.
 
-*I WILL BE DISCIPLINED AND FOCUSED, MINIMIZING DISTRACTIONS AND TIME WASTAGE.*
-*I WILL USE MY TIME EFFECTIVELY TO REACH MY GOALS AND COMPLETE ASSIGNED TASKS PROMPTLY.*
-*I WILL EXTEND MY WORKING HOURS BEYOND DESIGNATED TIMES TO DEVELOP MY SKILLS.*
-*I WILL MAINTAIN A FRIENDLY AND JOVIAL ATTITUDE, SHARING IDEAS AND THOUGHTS WITH MY PEERS.*
-*I WILL BE SINCERE IN MY WORK AND ACTIVELY ENGAGE WITH CLUB MEMBERS.*
-*I BELIEVE THESE ATTRIBUTES MAKE ME A STRONG CANDIDATE FOR THE FOSS CLUB.*
+## How Do You Intend to Contribute Back to the Club?
 
-## WHAT ARE YOUR FIELDS OF INTEREST, AND HOW DO YOU PLAN ON WORKING ON THEM?
-*MY FIELDS OF INTEREST INCLUDE SKILL DEVELOPMENT, CODING, LEARNING NEW THINGS EVERY DAY, AND EXPLORING UNKNOWN TERRITORIES. OUTSIDE OF TECHNICAL INTERESTS, I ENJOY PLAYING BADMINTON AND CRICKET, LISTENING TO MUSIC, AND WATCHING MOVIES. ONCE I JOIN THE CLUB, I WILL MINIMIZE DISTRACTIONS AND FULLY DEDICATE MYSELF TO THE CLUB, FOCUSING ON IMPROVING MY KNOWLEDGE AND CONTRIBUTING TO THE CLUB'S SUCCESS.*
+**I will contribute to the club in the following ways:**
+**I will be disciplined and focused, minimizing distractions and time wastage.**
+**I will use my time effectively to reach my goals and complete assigned tasks promptly.**
+**I will extend my working hours beyond designated times to develop my skills.**
+**I will maintain a friendly and jovial attitude, sharing ideas and thoughts with my peers.**
+**I will be sincere in my work and actively engage with club members.**
+**I believe these attributes make me a strong candidate for the FOSS Club.**
 
+## What Are Your Fields of Interest, and How Do You Plan on Working on Them?
+My fields of interest include skill development, coding, learning new things every day, and exploring unknown territories. Outside of technical interests, I enjoy playing badminton and cricket, listening to music, and watching movies. Once I join the club, I will minimize distractions and fully dedicate myself to the club, focusing on improving my knowledge and contributing to the club's success.
 
-# Project Task Status
-
+## Project Task Status
 This document outlines the status of various tasks for the project.
 
 ## Task Status
@@ -30,12 +29,12 @@ This document outlines the status of various tasks for the project.
 | [TASK-00](https://github.com/Jagadeesh-18-bot/amfoss-tasks/tree/main/TASK-00) | INSTALLING LINUX                 | COMPLETED |
 | [TASK-01](https://github.com/Jagadeesh-18-bot/amfoss-tasks/tree/main/TASK-01) | TYPE MAESTRO                     | COMPLETED |
 | [TASK-02](https://github.com/Jagadeesh-18-bot/amfoss-tasks/tree/main/TASK-02) | TERMINAL CHAOS                   | COMPLETED |
-| [TASK-03]( | HELLO, WORLD!                    | PARTIALLY COMPLETED  |
-| TASK-04 | GOPAL AND HIS PAGEPAL            | PARTIALLY COMPLETED  |
-| TASK-05 | TERMINAL TROLLY                  | NOT COMPLETED |
-| TASK-06 | OPEN DOCS                        | COMPLETED |
+| [TASK-03](https://github.com/Jagadeesh-18-bot/amfoss-tasks/tree/main/TASK-03) | HELLO, WORLD!                    | PARTIALLY COMPLETED  |
+| [TASK-04](https://github.com/Jagadeesh-18-bot/amfoss-tasks/tree/main/TASK-04) | GOPAL AND HIS PAGEPAL            | PARTIALLY COMPLETED  |
+| [TASK-05] | TERMINAL TROLLY                  | NOT COMPLETED |
+| [TASK-06](https://github.com/Jagadeesh-18-bot/amfoss-tasks/tree/main/TASK-06) | OPEN DOCS                        | COMPLETED |
 | TASK-07 | PIRATE'S DILEMMA                 | NOT COMPLETED |
-| TASK-08 | BLOG BURST                       | COMPLETED |
+| [TASK-08](https://github.com/Jagadeesh-18-bot/amfoss-tasks/tree/main/TASK-08) | BLOG BURST                       | COMPLETED |
 | TASK-09 | HERO-DEX!                        | NOT COMPLETED |
 | TASK-10 | OPERATION PIXEL MERGE            | NOT COMPLETED |
 
@@ -48,7 +47,5 @@ This document outlines the status of various tasks for the project.
 ---
 
 :rocket: **Happy Coding!**
-
-
 
 
