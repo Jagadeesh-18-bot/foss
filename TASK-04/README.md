@@ -74,3 +74,4 @@ Calls the main() function to start the bot.
 
 These are all the functions I learned about and became familiar with while working on the task and writing the code.
 
+# 🔭
