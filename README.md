@@ -43,7 +43,7 @@ This document outlines the status of various tasks for the project.
 - **COMPLETED**: Task has been completed successfully.
 - **PARTIALLY COMPLETED**: Task is in progress or partially completed.
 - **NOT COMPLETED**: Task has not been started or completed yet.
-- My primary goal in joining the `AMFOSS club` is to position myself for a successful participation in `Google Summer of Code` **(GSoC)**. `GSoC` is a highly competitive program that offers students the opportunity to work on **open-source projects** under the mentorship of experienced developers, contributing to real-world software while receiving a stipend. By actively engaging with `AMFOSS`, I aim to build my skills, gain valuable experience, and make significant contributions to **open-source projects**. This involvement will not only enhance my technical expertise but also strengthen my application for `GSoC`, aligning my efforts with the club's collaborative and innovative environment.
+- ### My primary goal in joining the `AMFOSS club` is to position myself for a successful participation in `Google Summer of Code` **(GSoC)**. `GSoC` is a highly competitive program that offers students the opportunity to work on **open-source projects** under the mentorship of experienced developers, contributing to real-world software while receiving a stipend. By actively engaging with `AMFOSS`, I aim to build my skills, gain valuable experience, and make significant contributions to **open-source projects**. This involvement will not only enhance my technical expertise but also strengthen my application for `GSoC`, aligning my efforts with the club's collaborative and innovative environment.
 
 ---
 
