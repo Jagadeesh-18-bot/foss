@@ -1,24 +1,24 @@
 TAKES INPUT NUMBER 'N' FROM USER AND GENERATES A DIAMOND PATTERN OF ASTERISKS
 
-def print_diamond(n):
-    if n < 1:
-        print("Please enter a positive integer.")
-        return
-    
-    # Print the top half of the diamond
+# Function to generate and print the diamond pattern
+def diamond_pattern(n):
+    # Upper part of the diamond
     for i in range(n):
-        print(' ' * (n - i - 1) + '*' * (2 * i + 1))
-    
-    # Print the bottom half of the diamond
+        # Print leading spaces
+        print(' ' * (n - i - 1), end='')
+        # Print asterisks
+        print('*' * (2 * i + 1))
+
+    # Lower part of the diamond
     for i in range(n - 2, -1, -1):
-        print(' ' * (n - i - 1) + '*' * (2 * i + 1))
+        # Print leading spaces
+        print(' ' * (n - i - 1), end='')
+        # Print asterisks
+        print('*' * (2 * i + 1))
 
-def main():
-    try:
-        n = int(input("Enter the number of lines for the diamond pattern: "))
-        print_diamond(n)
-    except ValueError:
-        print("Invalid input. Please enter an integer.")
+# Input from user
+n = int(input("Enter the number of rows for the diamond (n): "))
 
-if __name__ == "__main__":
-    main()
+# Generate the diamond pattern
+diamond_pattern(n)
+
