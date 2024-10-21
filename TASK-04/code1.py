@@ -7,7 +7,7 @@ import os
 
 TELEGRAM_BOT_KEY=""
 GOOGLE_BOOKS_API=""
-BOT_USERNAME="Yuki_the_pagepal_bot"
+BOT_USERNAME="technophiles-bot"
 
 #start command
 async def start_command(update: Update, context:ContextTypes.DEFAULT_TYPE):
