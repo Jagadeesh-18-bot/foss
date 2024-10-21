@@ -5,13 +5,13 @@ import requests
 import pandas as pd
 import os
 
-TELEGRAM_BOT_KEY="7327161190:AAGxyYNUrjrIgKRgatrBxbtE8U-k-pUeChI"
-GOOGLE_BOOKS_API="AIzaSyDot5CZNacZA7mAXSg-zwGqCiPKAjfrLIk"
+TELEGRAM_BOT_KEY=""
+GOOGLE_BOOKS_API=""
 BOT_USERNAME="Yuki_the_pagepal_bot"
 
 #start command
 async def start_command(update: Update, context:ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text("Hello!, Im Yuki. Please use the /help command to get started.")
+    await update.message.reply_text("Hello!, Im technophile. Please use the /help command to get started.")
 
 #book command
 async def book_command(update: Update, context:ContextTypes.DEFAULT_TYPE):
